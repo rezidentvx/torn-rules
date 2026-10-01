@@ -1,0 +1,3 @@
+```
+All accounts must be operated exclusively by the original account creator. Sharing your login details with anyone else or having someone initiate processes on your behalf is strictly prohibited and can put your account at risk. Staff have a decade of experience in this field and can easily spot the signs of account sharing. All benefits gained from sharing any account will be removed and bans start at 7 days, but can vary depending on the severity.
+```
