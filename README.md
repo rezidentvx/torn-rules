@@ -1,8 +1,10 @@
 # What Is This
-This is a collection of rules as they are enforced (or not). The [official rules page](https://www.torn.com/rules.php) is designed to be concise and staff intend to leave some ambiguity so players aren't incentivized to push the bounds.
+This [Obsidian](https://obsidian.md/) vault is a collection of Torn rules as they are enforced (or not).
 
 # Why Make This
-https://www.torn.com/forums.php#/p=threads&f=2&t=16604899&b=0&a=0&start=500&to=27933547
+The [official rules page](https://www.torn.com/rules.php) is designed to be concise and staff intend to leave some ambiguity so players aren't incentivized to push the bounds.
+
+However, this approach [creates some practical issues](https://www.torn.com/forums.php#/p=threads&f=2&t=16604899&b=0&a=0&start=500&to=27933547):
 ```
 [...] the years of tribal knowledge that have amassed from this approach are unsustainable (and IMO, already out of hand). It feels as though we have to become rules lawyers and study the case law to not accidentally misstep.
 
