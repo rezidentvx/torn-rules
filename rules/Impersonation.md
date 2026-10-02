@@ -2,7 +2,7 @@
 Taking advantage by pretending to be another person, or holding a position of authority.
 ```
 
-# Active Claims
+# Pretending
 You cannot actively claim to be--or present yourself as--another player.[^1][^2][^4]
 
 This includes:
@@ -12,7 +12,7 @@ This *may* include:
 - Changing your profile to match the target player[^3]
 
 This does *not* include:
-- Changing your name to mimic another player
+- Changing your name to mimic another player[^1]
 	- Even if you know people will mistake you for that other player[^4]
 
 # Taking Advantage
