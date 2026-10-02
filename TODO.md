@@ -1,12 +1,17 @@
 # Content
 - buying referrals
-- where languages other than English are allowed
-- where advertising is/n't allowed
 - who counts as a provider--i.e., who can legally advertise
 - scripting...
-- buying downvotes on another person
-- offering to break the rules in the course of deceiving another user, with no intention of doing so
 # Formatting
 None
 # Bugs
 None
+
+# Needs A Home
+- [PJ on rules/enforcement ethos](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=30880&to=26889204)
+	- Bonus note on multis: "if you flag enough criteria for being deemed multiple accounts, don't be surprised if you're treated like multiple accounts."
+- [PJ on multi-like behavior](https://www.torn.com/forums.php#/p=threads&f=3&t=16339327&b=0&a=0&start=0&to=23617897)
+	- [Cited again by PJ](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=30880&to=26889247) - 19/01/2026
+- [PJ on buying referrals](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262642)
+	- TLDR: player fedded because someone multid to sell him referrals
+	- Implications for both buying referrals (illegal or just liability exposure?) and abetting/enticement
