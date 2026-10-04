@@ -2,7 +2,7 @@
 This [Obsidian](https://obsidian.md/) vault is a collection of Torn rules as they are enforced (or not).
 
 # Why Make This
-The [official rules page](https://www.torn.com/rules.php) is designed to be concise and staff [[Rules Philosophy|intend]] to leave some ambiguity so players aren't incentivized to push the bounds.
+The [official rules page](https://www.torn.com/rules.php) is designed to be concise and staff [intend](./Rules%20Philosophy.md) to leave some ambiguity so players aren't incentivized to push the bounds.
 
 However, this approach [creates some practical issues](https://www.torn.com/forums.php#/p=threads&f=2&t=16604899&b=0&a=0&start=500&to=27933547):
 ```
