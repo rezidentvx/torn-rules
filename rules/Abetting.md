@@ -2,6 +2,7 @@
 Knowingly aiding and abetting rule violators within the game. This includes, but is not limited to, transferring assets between multiple accounts in an attempt to hide illicit gains (Middlemanning), willingly and knowingly covering up or hiding known serious rule violations committed by others, or deliberately performing actions that assist others in ongoing rule violations.
 ```
 
+[Introductory comment about the Abetting rule](https://www.torn.com/forums.php#/p=threads&f=2&t=16468836&b=0&a=0&to=25939326)
 # Knowingly
 The requirement to know of the violation does not apply. Rather, there is a loose due diligence standard--i.e., whether you *ought* to have known.
 
@@ -14,14 +15,14 @@ As soon as you start paying people to refer others for you, you're opening yours
 # Buying Referrals
 Buying referrals is legal[^2], but the buyer assumes liability for violations by the seller.[^3]
 
-Players can expect volatility in responses to this practice due to it conflicting with staff's intentions[^3]:
+Players may expect volatility in responses to this practice due to it conflicting with staff's intentions[^3]:
 ```
 [...] the referral system was never meant to be gamed like this. Referrals are meant to reward players for bringing their friends and family to the game. They aren't supposed to be merits that you can purchase.
 ```
 
 ## Cases
-- [~24/09/25](https://www.torn.com/forums.php#/p=threads&f=2&t=16504347&b=0&a=0rh%3D77&to=26464664) - Yenna \[2715649\]: The seller used multis to supply referrals, unbeknownst to the buyer. The buyer faced no punishment, but illicit gains were removed.
-- [14/04/26](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262642) - Htr \[89581\]: The seller used multis to supply referrals, unbeknownst to the buyer. The buyer was fedded for Abetting.
+- [~24/09/25](https://www.torn.com/forums.php#/p=threads&f=2&t=16504347&b=0&a=0rh%3D77&to=26464664) - Yenna \[2715649\]: These referrals were **unsolicited**. The referred player used multis to supply referrals, unbeknownst to the referrer. The referrer faced **no punishment**, but illicit gains were removed.
+- [14/04/26](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262642) - Htr \[89581\]: These referrals were **solicited and bought**. The seller used multis to supply referrals, unbeknownst to the buyer. The buyer was **fedded** for Abetting.
 
 # Misc
 "Offering to break the rules, even if you have no intention of following through, would itself be against the rules."[^1]
