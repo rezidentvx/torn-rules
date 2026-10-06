@@ -11,9 +11,17 @@ Promoting content, products, games, websites, or services that are unrelated to 
 - Bounty reasons
 
 # Provider Requirement
-- "To be counted as a provider, you need to own what you're advertising."[^2]
-	- TBD whether this includes all service/faction staff
-- "Privately this is not an issue, such guidelines only apply to public advertisements."[^1]
+"To be counted as a provider, you need to own what you're advertising."[^2]
+## Legal
+- Smaller actions such as seeking immediate revives for other players[^3]
+- Advertising for your own faction/company if you are a direct member, employee, or significant shareholder of a business/service[^3]
+- Posting "review bumps" of services[^3]
+- Any newspaper advertising[^3]
+- Any private advertising (e.g., DMs)
+	- "Privately this is not an issue, such guidelines only apply to public advertisements."[^1]
+## Illegal
+- Services that sell bumps or post advertisements on behalf of others[^3]
+	- This is the specific target of the rule[^3]
 
 # Forum Karma
 - The prohibition on buying/selling karma extends to buying downvotes, despite this being a loss of karma.[^2]
@@ -21,3 +29,4 @@ Promoting content, products, games, websites, or services that are unrelated to 
 
 [^1]: 05/05/26 - Staff: Report against a DM advertisement by misc. member
 [^2]: 02/10/26 - Glandem \[2753716\]: DMs
+[^3]: 08/04/24 - bogie \[148747\]: [Advertisement rules update](https://www.torn.com/forums.php#/p=threads&f=1&t=16392536)

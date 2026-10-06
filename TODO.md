@@ -1,8 +1,7 @@
 # Content
-- Who counts as a provider--i.e., who can legally advertise
-	- The latest answer (requires ownership) conflicts with current practice
 - Scripting...
 	- key usage, disclosures, consent
+	- What counts as a legal input? E.g., eye tracking?
 - Add notes on multi-like behavior and feeding
 # Formatting
 - Clean up [[Rules Philosophy]]
