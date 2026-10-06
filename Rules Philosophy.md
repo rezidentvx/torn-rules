@@ -2,5 +2,9 @@
 
 "I don't have any interest in taking part in this \[rules project\] as the rules are deliberately written the way they are to avoid everyone pushing up to the line of legality."[^2]
 
+"They're meant to be \[vague\]. For each category, staff have been provided with a comprehensive alternate description and many specific examples in four different degrees to help moderate them properly and consistently."[^3]
+
 [^1]: 19/01/26 - PrincessJulie \[11229\]: https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=30880&to=26889204
 [^2]: 04/10/26 - PrincessJulie \[11229\]: DMs
+[^3]: 08/12/16 - Chedburn \[1\]: [New Social Guidelines](https://www.torn.com/forums.php#/p=threads&f=1&t=15991575)
+[^4]: 22/11/16 - Chedburn \[1\]: [Staff team changes](https://www.torn.com/forums.php#/p=threads&f=1&t=15990090)

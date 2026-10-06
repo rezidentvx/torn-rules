@@ -1,3 +1,10 @@
 ```
 The use of scripts, extensions, applications, or any other software is permitted only when they rely on data from our API or from a page that you have manually loaded and are actively viewing. Such software must not make additional non-API requests to Torn, scrape pages that are not currently being viewed, attempt to bypass CAPTCHA protections, or extract data from unfocused pages to send elsewhere, generate alerts, or draw attention to itself or another window. Any software that makes non-API requests which are not directly and manually initiated by the user is prohibited and may be tracked. Furthermore, releasing software with malicious or undisclosed functionality is strictly forbidden, and developers of API-based tools are required to comply with the acceptable usage terms outlined [here](https://www.torn.com/api.html#).
 ```
+
+
+
+[^1]: 26/01/26 - bogie \[148747\]: [Updated Rules Page: Scripting & Scraping](https://www.torn.com/forums.php#/p=threads&f=1&t=16534470)
+[^2]: Staff: [API Docs](https://www.torn.com/api.html#)
+[^3]: 19/09/19 - bogie \[148747\]: [Malicious scripts](https://www.torn.com/forums.php#/p=threads&f=1&t=16119253)
+[^4]: 10/03/17 - Chedburn \[1\]: [New rule addition - Scripting abuse](https://www.torn.com/forums.php#/p=threads&f=1&t=16000717)

@@ -21,3 +21,9 @@ What’s still fine
 - Free entry giveaways and competitions. Giveaways and events that are free to enter, such as fantasy football or music league competitions with prizes for the winners, are still allowed.
 - Game services. Services tied to specific in-game activities, such as loss selling and overdose insurance, aren’t affected.
 ```
+
+## Caveats
+- The existing third-party setup for raffles is entirely legal if there's *also* a forum post[^1]
+
+
+[^1]: 06/10/2026 - Staff: Report Thread #260692

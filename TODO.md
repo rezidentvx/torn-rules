@@ -3,6 +3,8 @@
 	- key usage, disclosures, consent
 	- What counts as a legal input? E.g., eye tracking?
 - Add notes on multi-like behavior and feeding
+- Search for patch notes of every rule addition
+	- Hopefully this yields intent insights like [[Advertising]]
 # Formatting
 - Clean up [[Rules Philosophy]]
 # Bugs
