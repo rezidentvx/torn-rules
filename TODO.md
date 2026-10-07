@@ -2,11 +2,17 @@
 - Scripting...
 	- key usage, disclosures, consent
 	- What counts as a legal input? E.g., eye tracking?
+	- [websocket stuff](https://www.torn.com/forums.php#/p=threads&f=2&t=16531284)
 - Add notes on multi-like behavior and feeding
-- Search for patch notes of every rule addition
-	- Hopefully this yields intent insights like [[Advertising]]
+- Attach/Distribute [[Harassment#Block Evasion]] to other relevant rules
+- Off-topic discussion in forums
+	- [Are we okay with staff dictating forum discussions](https://www.torn.com/forums.php#/p=threads&f=2&t=16533442)
+	- Report Thread #260127
 # Formatting
 - Clean up [[Rules Philosophy]]
+- Set up Github Pages
+	- Likely won't work with some Obsidian formatting, e.g. page links
+- Add text to the nasty-looking forum links
 # Bugs
 None
 

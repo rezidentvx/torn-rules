@@ -8,8 +8,9 @@ Promoting content, products, games, websites, or services that are unrelated to 
 - Some forums[^2]
 - Chat/mail to individual players[^2]
 # Illegal
-- Bounty reasons
-
+- Bounty reasons[^4]
+	- Previously legal[^5]
+- Everywhere else in Torn?
 # Provider Requirement
 "To be counted as a provider, you need to own what you're advertising."[^2]
 ## Legal
@@ -30,3 +31,5 @@ Promoting content, products, games, websites, or services that are unrelated to 
 [^1]: 05/05/26 - Staff: Report against a DM advertisement by misc. member
 [^2]: 02/10/26 - Glandem \[2753716\]: DMs
 [^3]: 08/04/24 - bogie \[148747\]: [Advertisement rules update](https://www.torn.com/forums.php#/p=threads&f=1&t=16392536)
+[^4]: 26/04/26 - DSLA \[2807954\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=36060&to=27277292) on report (25/04/26)
+[^5]: 26/04/26 - DSLA \[2807954\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=36060&to=27277744) on Report Thread #197336 (05/10/25)
