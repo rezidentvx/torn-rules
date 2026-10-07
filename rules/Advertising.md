@@ -26,6 +26,7 @@ Promoting content, products, games, websites, or services that are unrelated to 
 
 # Forum Karma
 - The prohibition on buying/selling karma extends to buying downvotes, despite this being a loss of karma.[^2]
+- "You aren't allowed to require likes in exchange for contest entries"[^7]
 
 
 [^1]: 05/05/26 - Staff: Report against a DM advertisement by misc. member
@@ -34,3 +35,4 @@ Promoting content, products, games, websites, or services that are unrelated to 
 [^4]: 26/04/26 - DSLA \[2807954\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=36060&to=27277292) on report (25/04/26)
 [^5]: 26/04/26 - DSLA \[2807954\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=36060&to=27277744) on Report Thread #197336 (05/10/25)
 [^6]: 29/06/26 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=3&t=16578666&b=0&a=0&start=0&to=27554371)
+[^7]: 18/02/26 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=17&t=16540157&b=0&a=0&start=0&to=27007537)
