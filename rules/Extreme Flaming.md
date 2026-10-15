@@ -4,7 +4,7 @@ Unfiltered offensive profanity or severe slanderous name-calling taken offensive
 
 # Some Things You Can't Say
 - Calling someone "pedo"[^3], even jokingly, as it "is a serious and potentially damaging accusation"[^1]
-- Calling someone "N'wah"[^6], a term from _The Elder Scrolls_ meaning "outlander" or "foreigner"
+- Calling someone the fictional Dark Elf term from _The Elder Scrolls_ meaning "outlander" or "foreigner"[^6]
 # Some Things You Can Say
 - Calling someone "racist"[^2], despite it being a serious and potentially damaging accusation
 - Calling someone "retard"
