@@ -18,7 +18,7 @@ Sourced from [^1]:
 - Third party bounty with neutral (e.g., service name or target battlestats) or no reason
 - Purchasing from bazaar/item market if User A allows this (i.e., does not have Blacklist enabled)
 - Third party purchases from bazaar/item market if User not told
-- Up voting/down voting their post
+- Upvoting/downvoting their post
 - Forum replies that are on topic
 - Attacking User A with any of the available options (Leave, Hospitalize, Mug, or any of the Mission-only options)
 - Adding User A to Friend, Enemy, or Ignore list
@@ -32,7 +32,7 @@ Sourced from [^1]:
 - Having a third party message them in or outside of Torn
 - Messaging them directly outside of Torn
 - Having a third party send a "harassing" amount of items to User A
-	- Determined on a case by case basis but likely means filling up their inventory, flooding their event log with item received notifications, etc.
+	- Determined on a case-by-case basis but likely means filling up their inventory, flooding their event log with item received notifications, etc.
 	- Reportable as [[Flooding and Spamming]] or [[Harassment]]
 - Having multiple third parties send non-harassing amounts of items that accumulate into a "harassing" amount of items
 - Bounty amounts that are l33t-speak words intended to send a message to the other party (for example 455, 800813, 88, etc), with or without a bounty service
