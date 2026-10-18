@@ -1,4 +1,4 @@
-Message user 2077404 in-game. You can use Github issues, but it's really not necessary.
+Message [me](https://www.torn.com/profiles.php?XID=2077404) in-game.
 
 Things to consider:
 - Please check [TODO](obsidian://open?vault=torn-rules&file=TODO) first to ensure it's not already on the list.
