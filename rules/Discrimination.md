@@ -3,12 +3,12 @@ Hate speech and direct or indirect derogatory words / slurs regarding ethnic ori
 ```
 
 # Some Things You Can't Say
-- Calling someone "N'wah"[^3], a term from _The Elder Scrolls_ meaning "outlander" or "foreigner"
+- Calling someone the fictional Dark Elf term from _The Elder Scrolls_ meaning "outlander" or "foreigner"[^3]
 # Some Things You Can Say
 - Calling someone "retard"
 - Calling someone "gay", as there's nothing wrong with being gay[^1]
 	- There's a specific rejected report saying this that I'd like to find again
-	- EXCEPT when accompanied by negative language, e.g. "Alphabetical club bitch ass"[^2]
+	- EXCEPT when accompanied by negative language[^2]
 - "fuck whites", unambiguously referring to ethnicity[^4]
 
 [^1]: 31/05/19 - Tyler \[23890\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16101120&b=0&a=0&start=140&to=19395851) (screenshot of chat with bogie)

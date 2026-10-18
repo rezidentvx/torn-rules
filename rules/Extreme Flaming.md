@@ -10,7 +10,7 @@ Unfiltered offensive profanity or severe slanderous name-calling taken offensive
 - Calling someone "retard"
 - Calling someone "gay", as there's nothing wrong with being gay[^4]
 	- There's a specific rejected report saying this that I'd like to find again
-	- EXCEPT when accompanied by negative language, e.g. "Alphabetical club bitch ass"[^5]
+	- EXCEPT when accompanied by negative language[^5]
 
 [^1]: 12/05/26 - Staff: Warning mail
 [^2]: 08/01/26 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16530248&b=0&a=0&start=0&to=26843028)
