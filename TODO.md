@@ -16,7 +16,8 @@
 	- Maybe add SMTH as a whole being held accountable for their long history of violations
 - [[Impersonation]]: Add DSLA and his spouse
 	- DSLA renamed to No0bsl4yer and spouse is now DSLA
-- Bug abuse: Add content from [DB dupe announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16082307&b=0&a=0&start=0&to=19129322), esp. acceptable testing
+- Bug abuse:
+	- Add TNL/SHAT websocket scandal as an example in [[Bug and Exploit Abuse#Approval]]
 # Formatting
 - Clean up [[Rules Philosophy]]
 - Clean up [[Multiple Accounts#Perception Is Reality]]
