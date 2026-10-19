@@ -1,9 +1,9 @@
 # Content
 - Scripting:
-	- key usage, disclosures, consent
+	- iframes (esp. vs same-page rule)
 	- What counts as a legal input? E.g., eye tracking?
-	- [websocket stuff](https://www.torn.com/forums.php#/p=threads&f=2&t=16531284)
-	- [websockets/scraping](https://www.torn.com/forums.php#/p=threads&f=1&t=16534470&b=0&a=0)
+	- [Whatever happened](https://www.torn.com/forums.php#/p=threads&f=2&t=16233148&b=0&a=0&start=0&to=21617598) to Fr00t \[2518990\], which staff has refused to disclose
+		- [Not API-related](https://www.torn.com/forums.php#/p=threads&f=2&t=16398668&b=0&a=0&to=24734378). Probably not relevant if it's nothing to do with scripting.
 - Multis: Add notes on multi-like behavior and feeding
 - Off-topic discussion in forums
 	- [Are we okay with staff dictating forum discussions](https://www.torn.com/forums.php#/p=threads&f=2&t=16533442)
@@ -16,8 +16,6 @@
 	- Maybe add SMTH as a whole being held accountable for their long history of violations
 - [[Impersonation]]: Add DSLA and his spouse
 	- DSLA renamed to No0bsl4yer and spouse is now DSLA
-- Bug abuse:
-	- Add TNL/SHAT websocket scandal as an example in [[Bug and Exploit Abuse#Approval]]
 # Formatting
 - Clean up [[Rules Philosophy]]
 - Clean up [[Multiple Accounts#Perception Is Reality]]
