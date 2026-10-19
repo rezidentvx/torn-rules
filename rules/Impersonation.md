@@ -6,7 +6,7 @@ Taking advantage by pretending to be another person, or holding a position of au
 You cannot actively claim to be--or present yourself as--another player.[^1][^2][^4]
 
 This includes:
--  Anonymous mail presenting yourself as the target player, faction leadership, etc.[^2]
+- Anonymous mail presenting yourself as the target player, faction leadership, etc.[^2]
 
 This *may* include:
 - Changing your profile to match the target player[^3]
@@ -18,7 +18,7 @@ This does *not* include:
 # Taking Advantage
 Passively mimicking another player may still violate the rule if you benefit from it. E.g.:
 - "very obviously copying everything from a profile **for the purpose of your own enrichment**"[^3]
-- "he's not claiming to be the real you or using the name for any kind of leverage/harassment, so it doesn't meet the threshold for action on our part."[^1]
+- "he's not claiming to be the real you or using the name for **any kind of leverage**/harassment, so it doesn't meet the threshold for action on our part."[^1]
 
 # Cases
 ## Legal

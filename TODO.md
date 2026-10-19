@@ -13,8 +13,6 @@
 	- Attach/Distribute [[Harassment#Block Evasion]] to other relevant rules
 - Abetting:
 	- Maybe add SMTH as a whole being held accountable for their long history of violations
-- [[Impersonation]]: Add DSLA and his spouse
-	- DSLA renamed to No0bsl4yer and spouse is now DSLA
 # Formatting
 - Clean up [[Rules Philosophy]
 - Set up Github Pages
