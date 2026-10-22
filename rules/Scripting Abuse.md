@@ -54,7 +54,7 @@ This consent cannot be obtained via hidden terms[^7]:
 
 Keys cannot be shared without the owner's consent.[^2][^7]
 
-Changes to the service that affect key usage (such as new features) require re-approval, though implementation is up to the service owner.[^11] It is legal to manage approval for each feature separately and only obtain consent for what has changed.[^11]
+Changes to the service that affect key usage (such as new features) require reobtaining consent, though implementation is up to the service owner.[^11] It is legal to manage consent for each feature separately and only obtain consent for what has changed.[^11]
 
 ## Terms of Service
 Any "script, userscript, sheet, extension, API service, bot, 3rd party website or any other API tool" must provide a ToS following the guidelines provided in the API docs[^2]. This is just a standard for conveying the information needed for a user's consent.

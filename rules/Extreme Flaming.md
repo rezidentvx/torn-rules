@@ -10,7 +10,7 @@ Unfiltered offensive profanity or severe slanderous name-calling taken offensive
 - Calling someone "retard"
 - Calling someone "gay", as there's nothing wrong with being gay[^4]
 	- There's a specific rejected report saying this that I'd like to find again
-	- EXCEPT when accompanied by negative language[^5]
+	- EXCEPT when accompanied by negative language[^5][^7]
 
 [^1]: 12/05/26 - Staff: Warning mail
 [^2]: 08/01/26 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16530248&b=0&a=0&start=0&to=26843028)
@@ -18,3 +18,4 @@ Unfiltered offensive profanity or severe slanderous name-calling taken offensive
 [^4]: 31/05/19 - Tyler \[23890\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16101120&b=0&a=0&start=140&to=19395851) (screenshot of chat with bogie)
 [^5]: 03/08/23 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16345512&b=0&a=0rh%3D65&to=23721531)
 [^6]: 29/06/26 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=38&t=16578063&b=0&a=0&start=140&to=27555256)
+[^7]: 08/09/25 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16500620&b=0&a=0&to=26409397)
