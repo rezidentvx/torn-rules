@@ -13,12 +13,15 @@ Promoting content, products, games, websites, or services that are unrelated to 
 - Trade chat[^2]
 - Some forums[^2]
 - Chat/mail to individual players[^2]
-# Illegal
+
+## Illegal
 - Bounty reasons[^4]
 	- Previously legal[^5]
 - Everywhere else in Torn?
+
 # Provider Requirement
 "To be counted as a provider, you need to own what you're advertising."[^2]
+
 ## Legal
 - Smaller actions such as seeking immediate revives for other players[^3]
 - Advertising for your own faction/company if you are a direct member, employee, or significant shareholder of a business/service[^3]
@@ -26,6 +29,7 @@ Promoting content, products, games, websites, or services that are unrelated to 
 - Any newspaper advertising[^3]
 - Any private advertising (e.g., DMs)[^6]
 	- "Privately this is not an issue, such guidelines only apply to public advertisements."[^1]
+
 ## Illegal
 - Services that sell bumps or post advertisements on behalf of others[^3]
 	- This is the specific target of the rule[^3]
@@ -34,6 +38,7 @@ Promoting content, products, games, websites, or services that are unrelated to 
 - The prohibition on buying/selling karma extends to buying downvotes, despite this being a loss of karma.[^2]
 - "You aren't allowed to require likes in exchange for contest entries"[^7]
 
+---
 
 [^1]: 05/05/26 - Staff: Report against a DM advertisement by misc. member
 [^2]: 02/10/26 - Glandem \[2753716\]: DMs

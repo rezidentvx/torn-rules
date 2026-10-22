@@ -72,6 +72,7 @@ Some services have been grandfathered or otherwise exempted from this requiremen
 # Approval
 IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for rulings on scripting rules and script reviews. While this authority is established regularly by Admins, a ruling that something *is* legal is unreliable[^3]. See [here](./Bug%20and%20Exploit%20Abuse#Approval).
 
+---
 
 [^1]: 26/01/26 - bogie \[148747\]: [Updated Rules Page: Scripting & Scraping](https://www.torn.com/forums.php#/p=threads&f=1&t=16534470)
 [^2]: Staff: [API Docs](https://www.torn.com/api.html#)

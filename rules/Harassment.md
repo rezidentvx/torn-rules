@@ -11,6 +11,7 @@ Causing the distress of a player while using the personal information or potenti
 # Some Things You Can't Say
 ## IRL Insults
 - "[ugly and fat](https://www.torn.com/forums.php#/p=threads&f=17&t=16504525)"
+
 ## IRL Threats
 
 # Block Evasion
@@ -40,10 +41,11 @@ Sourced from [^1]:
 - Messaging them directly outside of Torn
 - Having a third party send a "harassing" amount of items to User A
 	- Determined on a case-by-case basis but likely means filling up their inventory, flooding their event log with item received notifications, etc.
-	- Reportable as [Flooding and Spamming](./Flooding%20And%20Spamming) or [Harassment](./Harassment)
+	- Reportable as [Flooding and Spamming](./Flooding%20and%20Spamming) or [Harassment](./Harassment)
 - Having multiple third parties send non-harassing amounts of items that accumulate into a "harassing" amount of items
 - Bounty amounts that are l33t-speak words intended to send a message to the other party (for example 455, 800813, 88, etc), with or without a bounty service
 
+---
 
 [^1]: 31/07/24 - Viciously_Grim \[2752611\]: [What counts as bypassing block and ignore?](https://www.torn.com/forums.php#/p=threads&f=3&t=16413100) with [staff verification](https://www.torn.com/forums.php#/p=threads&f=3&t=16413100&to=24999989)
 [^2]: 19/07/26 - Staff: Report Thread #245181

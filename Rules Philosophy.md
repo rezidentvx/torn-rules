@@ -9,6 +9,8 @@ nav_order: 2
 
 "They're meant to be \[vague\]. For each category, staff have been provided with a comprehensive alternate description and many specific examples in four different degrees to help moderate them properly and consistently."[^3]
 
+---
+
 [^1]: 19/01/26 - PrincessJulie \[11229\]: https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=30880&to=26889204
 [^2]: 04/10/26 - PrincessJulie \[11229\]: DMs
 [^3]: 08/12/16 - Chedburn \[1\]: [New Social Guidelines](https://www.torn.com/forums.php#/p=threads&f=1&t=15991575)

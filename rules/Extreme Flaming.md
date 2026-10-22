@@ -11,12 +11,15 @@ Unfiltered offensive profanity or severe slanderous name-calling taken offensive
 # Some Things You Can't Say
 - Calling someone "pedo"[^3], even jokingly, as it "is a serious and potentially damaging accusation"[^1]
 - Calling someone the fictional Dark Elf term from _The Elder Scrolls_ meaning "outlander" or "foreigner"[^6]
+
 # Some Things You Can Say
 - Calling someone "racist"[^2], despite it being a serious and potentially damaging accusation
 - Calling someone "retard"
 - Calling someone "gay", as there's nothing wrong with being gay[^4]
 	- There's a specific rejected report saying this that I'd like to find again
 	- EXCEPT when accompanied by negative language[^5][^7]
+
+---
 
 [^1]: 12/05/26 - Staff: Warning mail
 [^2]: 08/01/26 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16530248&b=0&a=0&start=0&to=26843028)

@@ -31,5 +31,6 @@ What’s still fine
 ## Caveats
 - The existing third-party setup for raffles is entirely legal if there's *also* a forum post[^1]
 
+---
 
 [^1]: 06/10/2026 - Staff: Report Thread #260692

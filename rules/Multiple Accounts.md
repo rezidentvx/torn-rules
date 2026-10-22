@@ -17,6 +17,7 @@ This does not preclude normal friendly behavior, such as:
 - Joining the same faction or company[^3]
 
 "\[A\]s long as you're genuinely separate people only using your respective accounts that you yourselves made then there's no issue. You can interact with them as you would any other player."[^3]
+
 ## Feeding
 An account may not exist only to funnel resources to another.[^2] Staff have internal criteria to qualify this.[^2]
 
@@ -38,6 +39,8 @@ You may NOT assist in transferring any assets from a player that is fedded or re
 The multi rule is strongly enforced by the spirit of the rule, as illustrated with multi-like behavior.
 - "What I said is that if you flag enough criteria for being deemed multiple accounts, don't be surprised if you're treated like multiple accounts."[^1]
 - "The way I always answer this question to people who ask about having a feeder account is if it acts like a duck and quacks like a duck, don’t be surprised if it gets shot like a duck."[^2]
+
+---
 
 [^1]: 19/01/26 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=30880&to=26889204) on appearances and evidence
 [^2]: 24/11/24 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=16760&to=25386870) on feeding

@@ -11,4 +11,6 @@ Disregarding a request or warning made to you by a staff member via any medium t
 # Limitations
 Internally, this rule has clear limits[^1]. These limits will be listed here should they ever become known.
 
+---
+
 [^1]: 08/05/18 - Chedburn \[1\]: [Social Guideline addition & Forum quality](https://www.torn.com/forums.php#/p=threads&f=1&t=16043747)

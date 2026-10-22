@@ -8,8 +8,9 @@ nav_order: 1
 Knowingly aiding and abetting rule violators within the game. This includes, but is not limited to, transferring assets between multiple accounts in an attempt to hide illicit gains (Middlemanning), willingly and knowingly covering up or hiding known serious rule violations committed by others, or deliberately performing actions that assist others in ongoing rule violations.
 ```
 
-[Abetting rule announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16468834)
-[Introductory comment about the Abetting rule](https://www.torn.com/forums.php#/p=threads&f=2&t=16468836&b=0&a=0&to=25939326)
+- [Abetting rule announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16468834)
+- [Introductory comment about the Abetting rule](https://www.torn.com/forums.php#/p=threads&f=2&t=16468836&b=0&a=0&to=25939326)
+
 # Knowingly
 The requirement to know of the violation does not apply. Rather, there is a loose due diligence standard--i.e., whether you *ought* to have known.
 
@@ -22,6 +23,7 @@ As soon as you start paying people to refer others for you, you're opening yours
 However, personal benefit is potentially a necessary component for failure to report to be considered Abetting.[^5] Likewise, if the violation benefits you, then you may be complicit for not reporting it. For example:
 - a faction leader ignoring their members admitting to RMT[^5]
 - a company director knowingly accepting multis into their company[^5]
+
 # Buying Referrals
 Buying referrals is legal[^2], but the buyer assumes liability for violations by the seller.[^3]
 
@@ -37,6 +39,7 @@ Players may expect volatility in responses to this practice due to it conflictin
 # Misc
 "Offering to break the rules, even if you have no intention of following through, would itself be against the rules."[^1]
 
+---
 
 [^1]: 02/10/26 - Glandem \[2753716\]: DMs
 [^2]: 14/04/26 - Staff: Fed report on Htr \[89581\], [screenshot](https://editor.torn.com/f30a7283-e741-4591-99e8-2243436967b5-89581.png) posted [here](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262490)
