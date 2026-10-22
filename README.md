@@ -1,3 +1,8 @@
+---
+title: About
+nav_order: 1
+---
+
 # What Is This
 This [Obsidian](https://obsidian.md/) vault is a collection of Torn rules as they are enforced (or not). This is a resource to better understand the rules and *reconcile* inconsistencies, not rant about staff.
 

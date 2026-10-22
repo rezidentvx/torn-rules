@@ -1,3 +1,9 @@
+---
+title: Uncategorized
+parent: Rules
+nav_order: 999
+---
+
 Miscellaneous rules that don't appear to be attached to anything on the rules page.
 
 1. Staff may be targeted using intended game mechanics (e.g., bounties, dirty bombs) EXCEPT as retribution for a staff action[^1]

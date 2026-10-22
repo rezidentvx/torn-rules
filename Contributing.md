@@ -1,3 +1,8 @@
+---
+title: Contributing
+nav_order: 900
+---
+
 Message [me](https://www.torn.com/profiles.php?XID=2077404) in-game.
 
 Things to consider:

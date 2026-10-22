@@ -1,3 +1,8 @@
+---
+title: Harassment
+parent: Rules
+---
+
 ```
 Causing the distress of a player while using the personal information or potential appearance of them, their family, or their friends. This includes real-world threats and repeated verbal cyberbullying of which the victim is unable to avoid with the block / ignore features.
 ```

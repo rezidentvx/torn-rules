@@ -1,3 +1,8 @@
+---
+title: Impersonation
+parent: Rules
+---
+
 ```
 Taking advantage by pretending to be another person, or holding a position of authority.
 ```
