@@ -1,6 +1,7 @@
 ---
 title: Advertising
 parent: Rules
+nav_order: 1
 ---
 
 ```

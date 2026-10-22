@@ -1,13 +1,15 @@
 ---
 title: Scripting Abuse
 parent: Rules
+nav_order: 1
 ---
+
 ```
 The use of scripts, extensions, applications, or any other software is permitted only when they rely on data from our API or from a page that you have manually loaded and are actively viewing. Such software must not make additional non-API requests to Torn, scrape pages that are not currently being viewed, attempt to bypass CAPTCHA protections, or extract data from unfocused pages to send elsewhere, generate alerts, or draw attention to itself or another window. Any software that makes non-API requests which are not directly and manually initiated by the user is prohibited and may be tracked. Furthermore, releasing software with malicious or undisclosed functionality is strictly forbidden, and developers of API-based tools are required to comply with the acceptable usage terms outlined [here](https://www.torn.com/api.html#).
 ```
 
->[!warning] Citations Needed
->At the moment, some content below is conventional wisdom. However, inclusion of these items is still held to the same strict confidence standard as the rest of this project, and citations will be added retroactively.
+{: .needs_citation }
+At the moment, some content below is conventional wisdom. However, inclusion of these items is still held to the same strict confidence standard as the rest of this project, and citations will be added retroactively.
 
 # Unfair Advantage
 This rule was explicitly added with the intent of eliminating unfair advantages[^4]. This is still a factor in its enforcement, but the definition remains unclear.

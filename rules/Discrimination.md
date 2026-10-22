@@ -1,6 +1,7 @@
 ---
 title: Discrimination
 parent: Rules
+nav_order: 1
 ---
 
 ```

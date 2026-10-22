@@ -1,6 +1,7 @@
 ---
 title: Account Trading
 parent: Rules
+nav_order: 1
 ---
 
 ```

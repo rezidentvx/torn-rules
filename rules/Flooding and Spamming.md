@@ -1,6 +1,7 @@
 ---
 title: Flooding and Spamming
 parent: Rules
+nav_order: 1
 ---
 
 ```

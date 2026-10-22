@@ -1,6 +1,7 @@
 ---
 title: Real Money Trading
 parent: Rules
+nav_order: 1
 ---
 
 ```

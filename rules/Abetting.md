@@ -1,6 +1,7 @@
 ---
 title: Abetting
 parent: Rules
+nav_order: 1
 ---
 
 ```

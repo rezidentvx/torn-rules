@@ -1,6 +1,7 @@
 ---
 title: Compromising Security
 parent: Rules
+nav_order: 1
 ---
 
 ```

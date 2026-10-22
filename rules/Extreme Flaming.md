@@ -1,6 +1,7 @@
 ---
 title: Extreme Flaming
 parent: Rules
+nav_order: 1
 ---
 
 ```

@@ -1,6 +1,7 @@
 ---
 title: Obscene Content
 parent: Rules
+nav_order: 1
 ---
 
 ```
