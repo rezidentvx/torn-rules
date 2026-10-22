@@ -1,0 +1,6 @@
+title: Torn Rules
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark # dark mode
+
+plugins:
+  - jekyll-remote-theme
