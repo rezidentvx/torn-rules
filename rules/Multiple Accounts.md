@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Users are permitted to own only one Torn account and should never register a duplicate for any reason whatsoever. Using more than one account can give someone an unfair advantage, so Torn staff aggressively monitor suspected abuse using a huge array of tools developed over the last decade. A first-time multiple account offense will result in a game ban or deletion depending on the severity, with all illegal gains being removed.
-```
 
 # Multi-like Behavior
 Even if two accounts are operated exclusively by two different people, their activities may still violate the intent of the multi rule and be penalized accordingly.

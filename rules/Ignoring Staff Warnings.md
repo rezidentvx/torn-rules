@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Disregarding a request or warning made to you by a staff member via any medium to cease a particular action which may not specifically exist in these Social Guidelines.
-```
 
 # Limitations
 Internally, this rule has clear limits[^1]. These limits will be listed here should they ever become known.

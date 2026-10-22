@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Taking advantage by pretending to be another person, or holding a position of authority.
-```
 
 # Pretending
 You cannot actively claim to be--or present yourself as--another player.[^1][^2][^4]

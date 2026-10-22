@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Unfiltered offensive profanity or severe slanderous name-calling taken offensively by the victim. For example, hateful insults with real-world connotations.
-```
 
 # Some Things You Can't Say
 - Calling someone "pedo"[^3], even jokingly, as it "is a serious and potentially damaging accusation"[^1]

@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Creating content publicly in the forums or chat in any language other than English.
-```
 
 English is the only authorized language anywhere that's moderated by Torn staff, including private chats and the official Discord. Staff have said this is to enable moderation efforts.
 

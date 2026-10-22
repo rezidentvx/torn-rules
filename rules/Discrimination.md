@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Hate speech and direct or indirect derogatory words / slurs regarding ethnic origin, religion, gender identity, sexual orientation, disability, misogyny, or misandry. This includes any text, imagery or flags displayed in support of discrimination, real-world terrorism, or Nazism.
-```
 
 # Some Things You Can't Say
 - Calling someone the fictional Dark Elf term from _The Elder Scrolls_ meaning "outlander" or "foreigner"[^3]

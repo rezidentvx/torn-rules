@@ -4,9 +4,8 @@ parent: Rules
 nav_order: 1
 ---
 
-```
+{: .rule }
 Knowingly aiding and abetting rule violators within the game. This includes, but is not limited to, transferring assets between multiple accounts in an attempt to hide illicit gains (Middlemanning), willingly and knowingly covering up or hiding known serious rule violations committed by others, or deliberately performing actions that assist others in ongoing rule violations.
-```
 
 - [Abetting rule announcement](https://www.torn.com/forums.php#/p=threads&f=1&t=16468834)
 - [Introductory comment about the Abetting rule](https://www.torn.com/forums.php#/p=threads&f=2&t=16468836&b=0&a=0&to=25939326)
@@ -16,9 +15,7 @@ The requirement to know of the violation does not apply. Rather, there is a loos
 
 ## Benefit
 If you benefit from the violation, you ought to have known.[^3]
-```
-As soon as you start paying people to refer others for you, you're opening yourself up to the possibility that you're paying someone to cheat on your behalf. You benefitted from the cheating, and you paid for it to happen.
-```
+> As soon as you start paying people to refer others for you, you're opening yourself up to the possibility that you're paying someone to cheat on your behalf. You benefitted from the cheating, and you paid for it to happen.
 
 However, personal benefit is potentially a necessary component for failure to report to be considered Abetting.[^5] Likewise, if the violation benefits you, then you may be complicit for not reporting it. For example:
 - a faction leader ignoring their members admitting to RMT[^5]
@@ -28,9 +25,7 @@ However, personal benefit is potentially a necessary component for failure to re
 Buying referrals is legal[^2], but the buyer assumes liability for violations by the seller.[^3]
 
 Players may expect volatility in responses to this practice due to it conflicting with staff's intentions[^3]:
-```
-[...] the referral system was never meant to be gamed like this. Referrals are meant to reward players for bringing their friends and family to the game. They aren't supposed to be merits that you can purchase.
-```
+> \[...\] the referral system was never meant to be gamed like this. Referrals are meant to reward players for bringing their friends and family to the game. They aren't supposed to be merits that you can purchase.
 
 ## Cases
 - [~24/09/25](https://www.torn.com/forums.php#/p=threads&f=2&t=16504347&b=0&a=0rh%3D77&to=26464664) - Yenna \[2715649\]: These referrals were **unsolicited**. The referred player used multis to supply referrals, unbeknownst to the referrer. The referrer faced **no punishment**, but illicit gains were removed.
