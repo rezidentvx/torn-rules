@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # What Is This
-This [Obsidian](https://obsidian.md/) vault is a collection of Torn rules as they are enforced (or not). This is a resource to better understand the rules and *reconcile* inconsistencies, not rant about staff.
+This is a collection of Torn rules as they are enforced (or not). It is meant to be a resource to better understand the rules and *reconcile* inconsistencies, not rant about staff.
 
 # Why Make This
 The [official rules page](https://www.torn.com/rules.php) is designed to be concise and staff [intend](./Rules%20Philosophy) to leave some ambiguity so players aren't incentivized to push the bounds.

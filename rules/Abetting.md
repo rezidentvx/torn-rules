@@ -43,6 +43,6 @@ Players may expect volatility in responses to this practice due to it conflictin
 
 [^1]: 02/10/26 - Glandem \[2753716\]: DMs
 [^2]: 14/04/26 - Staff: Fed report on Htr \[89581\], [screenshot](https://editor.torn.com/f30a7283-e741-4591-99e8-2243436967b5-89581.png) posted [here](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262490)
-[^3]: 22/04/26 - PrincessJulie \[11229\]: https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262642
+[^3]: 22/04/26 - PrincessJulie \[11229\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=35680&to=27262642)
 [^4]: 09/05/25 - bogie \[148747\]: [Rules update: Abetting](https://www.torn.com/forums.php#/p=threads&f=1&t=16468834)
 [^5]: 05/09/25 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=26020&to=26396126) in response to Proxima fed

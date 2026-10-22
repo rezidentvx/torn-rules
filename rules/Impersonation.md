@@ -40,8 +40,8 @@ Passively mimicking another player may still violate the rule if you benefit fro
 
 ---
 
-[^1]: 24/09/25 - bogie \[148747\]: https://www.torn.com/forums.php#/p=threads&f=17&t=16504485&to=26465915
-[^2]: 24/09/25 - bogie \[148747\]: https://www.torn.com/forums.php#/p=threads&f=2&t=16504485&b=0&a=0&start=20&to=26465962
+[^1]: 24/09/25 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=17&t=16504485&to=26465915)
+[^2]: 24/09/25 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16504485&b=0&a=0&start=20&to=26465962)
 [^3]: 14/09/26 - Deatvert \[2684760\]: DMs
 [^4]: 26/09/26 - Nyx \[2236278\]: DMs
-[^5]: 21/10/26 - Staff: Report Thread #263924 on [forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16613392&b=0&a=0&start=0&to=28049734)
+[^5]: 21/10/26 - Staff: Report Thread #263924 regarding [forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16613392&b=0&a=0&start=0&to=28049734)

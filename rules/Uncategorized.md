@@ -14,7 +14,7 @@ Miscellaneous rules that don't appear to be attached to anything on the rules pa
 
 ---
 
-[^1]: 26/03/26 - bogie \[148747\]: https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=34700&to=27151440
+[^1]: 26/03/26 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16129703&b=0&a=0&start=34700&to=27151440)
 [^2]: 04/10/19 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=10&t=16121485&b=0&a=0&start=0&to=19706573)
 [^3]: 06/12/19 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=17&t=16132460&b=0&a=0&to=19848662) regarding FLUX/R territory agreement made by committee member
 [^4]: 04/01/17 - Chedburn \[1\]: [WSSB insider information investigation](https://www.torn.com/forums.php#!p=threads&f=65&t=15993996)

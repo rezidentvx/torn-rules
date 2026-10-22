@@ -16,9 +16,6 @@ nav_order: 999
 	- Maybe add SMTH as a whole being held accountable for their long history of violations
 # Formatting
 - Clean up [Rules Philosophy](./Rules%20Philosophy)
-- Set up Github Pages
-	- Likely won't work with some Obsidian formatting, e.g. page links
-- Add text to the nasty-looking forum links
 # Bugs
 None
 
