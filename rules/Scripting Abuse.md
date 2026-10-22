@@ -27,7 +27,7 @@ As suggested by the rule and scraping definition, none of this applies when usin
 The restriction on sending data to another system depends on purpose. Extraction for meaningful data processing would "most likely" be considered scraping, but trivial things like visual changes (which are already generally exempted[^1]) "would most likely not".[^8]
 
 # WebSockets
-Fetching data from the WebSocket--"whether by observing the WebSocket or the effect of changes made via the WebSocket (eg by observing changes to the DOM)"--is governed by the [[Scripting Abuse#Scraping|scraping]] rules.[^1]
+Fetching data from the WebSocket--"whether by observing the WebSocket or the effect of changes made via the WebSocket (eg by observing changes to the DOM)"--is governed by the [scraping](./Scripting%20Abuse#Scraping) rules.[^1]
 
 # Interaction
 The player must perform 1 action per non-API request to Torn[^4]. For example, it is legal to populate input fields automatically as this occurs only in the client, but the player must manually trigger the submission.
@@ -64,7 +64,7 @@ Alternative formats for this disclosure have been approved, but review is needed
 Some services have been grandfathered or otherwise exempted from this requirement.
 
 # Approval
-IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for rulings on scripting rules and script reviews. While this authority is established regularly by Admins, a ruling that something *is* legal is unreliable[^3]. See [[Bug and Exploit Abuse#Approval]].
+IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for rulings on scripting rules and script reviews. While this authority is established regularly by Admins, a ruling that something *is* legal is unreliable[^3]. See [here](./Bug%20and%20Exploit%20Abuse#Approval).
 
 
 [^1]: 26/01/26 - bogie \[148747\]: [Updated Rules Page: Scripting & Scraping](https://www.torn.com/forums.php#/p=threads&f=1&t=16534470)

@@ -19,7 +19,7 @@ Any player wishing to restart must follow the instructions [here](https://wiki.t
 
 As the linked instructions are ~~complete,~~ authoritative, and subject to change, they won't be repeated here. But some key points:
 - You must close the original account, wait the allotted time, and then finalize the deletion BEFORE creating any new account.
-- You cannot transfer any assets to the new account, even indirectly ([[Multiple Accounts#Middlemanning|middlemanning]]), or assign a referrer.
+- You cannot transfer any assets to the new account, even indirectly ([middlemanning](./Multiple%20Accounts#Middlemanning)), or assign a referrer.
 - Permafeds must wait 90 days before restarting.
 	- It is possible that an individual is not allowed to restart at all. Check with staff first.
 

@@ -6,11 +6,11 @@
 		- [Not API-related](https://www.torn.com/forums.php#/p=threads&f=2&t=16398668&b=0&a=0&to=24734378). Probably not relevant if it's nothing to do with scripting.
 - [Clean slate after 1 year](https://www.torn.com/forums.php#/p=threads&f=2&t=16101120&b=0&a=0&start=60&to=19394144)?
 - Harassment:
-	- Attach/Distribute [[Harassment#Block Evasion]] to other relevant rules
+	- Attach/Distribute [Harassment#Block Evasion](./rules/Harassment#Block%20Evasion) to other relevant rules
 - Abetting:
 	- Maybe add SMTH as a whole being held accountable for their long history of violations
 # Formatting
-- Clean up [[Rules Philosophy]]
+- Clean up [Rules Philosophy](./Rules%20Philosophy)
 - Set up Github Pages
 	- Likely won't work with some Obsidian formatting, e.g. page links
 - Add text to the nasty-looking forum links

@@ -19,7 +19,7 @@ Sourced from [^1]:
 - Purchasing from bazaar/item market if User A allows this (i.e., does not have Blacklist enabled)
 - Third party purchases from bazaar/item market if User not told
 - Upvoting/downvoting their post
-- Forum replies that are on topic
+- Forum replies that are on topic[^3]
 - Attacking User A with any of the available options (Leave, Hospitalize, Mug, or any of the Mission-only options)
 - Adding User A to Friend, Enemy, or Ignore list
 - If griefing (repeated attacks) from User B results in faction respect losses for User A, faction leaders/co-leaders of both parties may intervene to mediate between the two affected parties
@@ -28,15 +28,17 @@ Sourced from [^1]:
 Sourced from [^1]:
 - Third party bounty with harassing reason or reason linkable to User B
 - Forum replies with the intention of bypassing the block
+	- E.g., "to post some random nonsense, continue some irrelevant personal beef or just make it so obvious as to ask you to unblock me"[^3]
 - Third party purchase if user is informed the purchase is for blacklisted user
 - Having a third party message them in or outside of Torn
 - Messaging them directly outside of Torn
 - Having a third party send a "harassing" amount of items to User A
 	- Determined on a case-by-case basis but likely means filling up their inventory, flooding their event log with item received notifications, etc.
-	- Reportable as [[Flooding and Spamming]] or [[Harassment]]
+	- Reportable as [Flooding and Spamming](./Flooding%20And%20Spamming) or [Harassment](./Harassment)
 - Having multiple third parties send non-harassing amounts of items that accumulate into a "harassing" amount of items
 - Bounty amounts that are l33t-speak words intended to send a message to the other party (for example 455, 800813, 88, etc), with or without a bounty service
 
 
-[^1]: 31/07/24 - Viciously_Grim \[2752611\]: [What counts as bypassing block and ignore?](https://www.torn.com/forums.php#/p=threads&f=3&t=16413100)
+[^1]: 31/07/24 - Viciously_Grim \[2752611\]: [What counts as bypassing block and ignore?](https://www.torn.com/forums.php#/p=threads&f=3&t=16413100) with [staff verification](https://www.torn.com/forums.php#/p=threads&f=3&t=16413100&to=24999989)
 [^2]: 19/07/26 - Staff: Report Thread #245181
+[^3]: 08/09/25 - bogie \[148747\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16500620&b=0&a=0&start=60&to=26409639) on when forum participation is bypassing
