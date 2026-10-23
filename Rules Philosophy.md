@@ -10,11 +10,12 @@ Ched's intent[^4] as it applies beyond the restructuring at the time:
 - Only ban users as a last resort.
 - Have a more open and transparent staff team.
 
-"The rules are written to cover the spirit of the rules. We will never cover every single possible way someone could violate the rules, as this would just push people who want to break them to find easier ways to do so."[^1]
-
-"I don't have any interest in taking part in this \[rules project\] as the rules are deliberately written the way they are to avoid everyone pushing up to the line of legality."[^2]
-
-"They're meant to be \[vague\]. For each category, staff have been provided with a comprehensive alternate description and many specific examples in four different degrees to help moderate them properly and consistently."[^3]
+# General Principles
+- The rules are written to cover the spirit of the rules.[^1]
+	- Likewise, enforcement follows the spirit of the rule, not the literal wording.
+- The rules are intentionally vague.[^1][^3]
+	- This is to prevent players pushing the bounds.[^1][^2]
+- Staff maintain internal guidelines for consistency, including "a comprehensive alternate description and many specific examples".[^3]
 
 ---
 

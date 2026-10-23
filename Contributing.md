@@ -3,7 +3,7 @@ title: Contributing
 nav_order: 900
 ---
 
-Message [me](https://www.torn.com/profiles.php?XID=2077404) in-game.
+Message [me](https://www.torn.com/profiles.php?XID=2077404) in-game or post in [the forum thread](https://www.torn.com/forums.php#/p=threads&f=61&t=16614300).
 
 Things to consider:
 - Please check [TODO](./TODO) first to ensure it's not already on the list.
