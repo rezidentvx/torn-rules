@@ -13,14 +13,6 @@ At the moment, some content below is conventional wisdom. However, inclusion of 
 # Unfair Advantage
 This rule was explicitly added with the intent of eliminating unfair advantages[^4]. This is still a factor in its enforcement, but the definition remains unclear.
 
-# Actively Viewing
-> The use of scripts, extensions, applications, or any other software is permitted only when they rely on data ~~from our API or~~ from a page that you have manually loaded and **are actively viewing**.
-
-An actively viewed page is defined[^1] as:
-> \[...\] in the foreground, visible, and being directly interacted with by the player. Merely having a page loaded in a background tab, minimized window, separate monitor, or left open for extended periods does not constitute active viewing
-
-This is satisfied by checking whether the page is focused--i.e., with `document.hasFocus()`--before performing any action (read or write) on the page.[^8]
-
 # Scraping
 > Such software must not make additional non-API requests to Torn, **scrape pages that are not currently being viewed**, attempt to bypass CAPTCHA protections, or **extract data from unfocused pages to send elsewhere, generate alerts, or draw attention to itself or another window**.
 
@@ -30,6 +22,18 @@ Scraping is defined[^1] as:
 As suggested by the rule and scraping definition, none of this applies when using the API as a datasource.[^9]
 
 The restriction on sending data to another system depends on purpose. Extraction for meaningful data processing would "most likely" be considered scraping, but trivial things like visual changes (which are already generally exempted[^1]) "would most likely not".[^8]
+
+## Actively Viewing
+> The use of scripts, extensions, applications, or any other software is permitted only when they rely on data ~~from our API or~~ from a page that you have manually loaded and **are actively viewing**.
+
+An actively viewed page is defined[^1] as:
+> \[...\] in the foreground, visible, and being directly interacted with by the player. Merely having a page loaded in a background tab, minimized window, separate monitor, or left open for extended periods does not constitute active viewing
+
+- This is satisfied by checking whether the page is focused--i.e., with `document.hasFocus()`[^13]--before performing any action (read or write) on the page.[^8]
+- You cannot artificially set multiple pages to be in focus.[^13]
+- Staff have affirmed a strict interpretation of "being directly interacted with by the player", including not being AFK or doing something else[^13].
+
+This rule may come with the reasonable caveat "... with the goal of bypassing any restriction/automatically changing pages other than one you are actively, personally viewing"[^13]. The focus check is the only technical mechanism observed to be enforced, and no one is being told to close Torn or disable all of their scripts while they piss.
 
 # WebSockets
 Fetching data from the WebSocket--"whether by observing the WebSocket or the effect of changes made via the WebSocket (eg by observing changes to the DOM)"--is governed by the [scraping](./Scripting%20Abuse#Scraping) rules.[^1]
@@ -92,3 +96,4 @@ IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for ru
 [^10]: 20/08/25 - bogie \[148747\]: [New staff script moderator](https://www.torn.com/forums.php#/p=threads&f=2&t=16495952)
 [^11]: 09/05/25 - splent \[2088243\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16468770&b=0&a=0&start=140&to=25940795) on service consent
 [^12]: 02/01/24 - IceBlueFire \[776\]: [Private mail](https://raw.githubusercontent.com/rezidentvx/torn-rules/refs/heads/main/assets/240102-mail-IBF-Kwack.png)
+[^13]: 29/06/26 - Velthir \[2100673\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=3&t=16578715&b=0&a=0&start=0&to=27553843) on scraping rules
