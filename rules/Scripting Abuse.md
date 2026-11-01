@@ -39,6 +39,13 @@ The player must perform 1 action per non-API request to Torn[^4]. For example, i
 
 This includes page loads, which submit a request to Torn servers despite not necessarily being a game interaction.
 
+## Modifying Requests
+It is legal to modify the naturally-occurring chat online status query (currently `POST /tchat/social/online`) without initiating the request yourself[^12].
+
+The legality of the following is still unclear:
+- *Initiating* requests to the chat endpoints
+- Modifying naturally-occurring requests to *other endpoints* (especially automatically)
+
 ## Player Actions
 Legal player actions to trigger network requests include:
 - Clicking a button
@@ -84,3 +91,4 @@ IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for ru
 [^9]: 26/01/26 - TestPedroDev \[3613560\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16534472&b=0&a=0&start=120&to=26919236) on using the API for notifications
 [^10]: 20/08/25 - bogie \[148747\]: [New staff script moderator](https://www.torn.com/forums.php#/p=threads&f=2&t=16495952)
 [^11]: 09/05/25 - splent \[2088243\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16468770&b=0&a=0&start=140&to=25940795) on service consent
+[^12]: 02/01/24 - IceBlueFire \[776\]: [Private mail](https://raw.githubusercontent.com/rezidentvx/torn-rules/refs/heads/main/assets/240102-mail-IBF-Kwack.png)

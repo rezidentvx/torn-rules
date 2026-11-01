@@ -9,6 +9,9 @@ nav_order: 999
 	- What counts as a legal input? E.g., eye tracking?
 	- [Whatever happened](https://www.torn.com/forums.php#/p=threads&f=2&t=16233148&b=0&a=0&start=0&to=21617598) to Fr00t \[2518990\], which staff has refused to disclose
 		- [Not API-related](https://www.torn.com/forums.php#/p=threads&f=2&t=16398668&b=0&a=0&to=24734378). Probably not relevant if it's nothing to do with scripting.
+	- Is it legal to block and/or manipulate normal requests? E.g., `GET /onlinestatus.php`
+	- Is it legal to use the chat endpoints?
+		- [API server consensus](https://discord.com/channels/681922682949992581/681922682954186763/1565070026648723467) is no for player-triggered requests, but yes for manipulating naturally-occurring requests.
 - [Clean slate after 1 year](https://www.torn.com/forums.php#/p=threads&f=2&t=16101120&b=0&a=0&start=60&to=19394144)?
 - Harassment:
 	- Attach/Distribute [Harassment#Block Evasion](./rules/Harassment#Block%20Evasion) to other relevant rules
