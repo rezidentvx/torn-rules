@@ -61,6 +61,10 @@ Scripts may interpret an input however you wish. This enables such things as spa
 Non-API requests must be sent from the same page on which they would naturally occur.
 
 For example, it is legal for a script to trigger a revive from the hospital page or a user's profile, but not the market page.
+
+# iframes
+iframes are allowed but, like any page load, must be manually triggered.[^14]
+
 # Key Usage
 You may not "use keys you're not supposed to have access or permission to"[^5]. This includes keys that have been shared publicly or otherwise indirectly acquired; the owner must still consent to its use.[^5]
 
@@ -97,3 +101,4 @@ IceBlueFire \[776\] and Velthir \[2100673\][^10] are the designated staff for ru
 [^11]: 09/05/25 - splent \[2088243\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=2&t=16468770&b=0&a=0&start=140&to=25940795) on service consent
 [^12]: 02/01/24 - IceBlueFire \[776\]: [Private mail](https://raw.githubusercontent.com/rezidentvx/torn-rules/refs/heads/main/assets/240102-mail-IBF-Kwack.png)
 [^13]: 29/06/26 - Velthir \[2100673\]: [Forum comment](https://www.torn.com/forums.php#/p=threads&f=3&t=16578715&b=0&a=0&start=0&to=27553843) on scraping rules
+[^14]: 03/11/26 - Velthir \[2100673\]: [Private mail](https://raw.githubusercontent.com/rezidentvx/torn-rules/refs/heads/main/assets/261019-mail-Velthir-Cpat.png)

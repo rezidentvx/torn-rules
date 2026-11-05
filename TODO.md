@@ -5,7 +5,8 @@ nav_order: 999
 
 # Content
 - Scripting:
-	- iframes (esp. vs same-page rule)
+	- iframes
+		- WRT same-page rule
 	- What counts as a legal input? E.g., eye tracking?
 	- [Whatever happened](https://www.torn.com/forums.php#/p=threads&f=2&t=16233148&b=0&a=0&start=0&to=21617598) to Fr00t \[2518990\], which staff has refused to disclose
 		- [Not API-related](https://www.torn.com/forums.php#/p=threads&f=2&t=16398668&b=0&a=0&to=24734378). Probably not relevant if it's nothing to do with scripting.
